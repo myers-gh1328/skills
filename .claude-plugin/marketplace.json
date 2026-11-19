@@ -1,0 +1,19 @@
+{
+  "name": "myers-skills",
+  "owner": {
+    "name": "Mike Myers"
+  },
+  "metadata": {
+    "description": "Claude Code skills and plugins by Mike Myers",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "get-to-the-point",
+      "source": "./plugins/get-to-the-point",
+      "version": "1.0.0",
+      "description": "Always-on output shape for busy readers: action first, numbered steps, one next move, no filler.",
+      "category": "productivity"
+    }
+  ]
+}
